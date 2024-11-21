@@ -1,0 +1,10 @@
+name = "brush" 
+type = "javascript"
+compatibility_date = "2024-11-20"
+workers_dev = true
+
+[account]
+account_id = "ccba895367a75a4a22de25acf478c910"
+
+[build.upload]
+format = "modules"
